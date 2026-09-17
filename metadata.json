@@ -1,0 +1,8 @@
+{
+  "name": "niabat in haram 2",
+  "description": "همه چی به نیابت",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

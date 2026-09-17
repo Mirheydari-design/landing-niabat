@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Persistent registration databases & vaults (protect against code upload overwrite)
+public/admin/registrations.json
+public/admin/registrations.csv
+public/admin/registrations_vault.json
+public/admin/registrations_vault.csv
+public/admin/registrations_history.log
+public/admin/views.txt
+public/admin/views_vault.txt
+public/admin/unique_ips.txt
